@@ -207,5 +207,3 @@ docker run -p 3000:3000 --env-file .env cde-transformer
 ![Node.js](https://img.shields.io/badge/Node.js-18-green)
 
 ---
-
-**Built for modern construction technology stacks** 🏗️⚡
