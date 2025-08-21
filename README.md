@@ -1,7 +1,7 @@
 # CDE Transformer Microservice
 
 A high-performance Node.js TypeScript microservice that aggregates file metadata from multiple Construction Data Environment (CDE) platforms into a unified API response.
-- Notion Link : https://legendary-raptor-430.notion.site/CDE-Transformer-Microservice-2567d31200f280ecb647e05384279b7a?source=copy_link
+- Document Link : https://legendary-raptor-430.notion.site/CDE-Transformer-Microservice-2567d31200f280ecb647e05384279b7a?source=copy_link
 
 ## 🚀 Features
 
