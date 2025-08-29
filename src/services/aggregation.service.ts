@@ -45,10 +45,10 @@ export class AggregationService {
       const providerName = providerNames[index];
       
       if (result.status === 'fulfilled') {
-        console.log(`✅ ${providerName}: fetched ${result.value.length} files`);
+        console.log(`${providerName}: fetched ${result.value.length} files`);
         allFiles.push(...result.value);
       } else {
-        console.error(`❌ ${providerName}: failed -`, result.reason.message);
+        console.error(`${providerName}: failed -`, result.reason.message);
       }
     });
 
